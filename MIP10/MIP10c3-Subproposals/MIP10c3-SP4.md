@@ -1,4 +1,4 @@
-# MIP10c3-SP5: Subproposal to Onboard Oracle
+# MIP10c3-SP4: Subproposal to Onboard Oracle
 
 ## Preamble
 ```
